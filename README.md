@@ -1,4 +1,4 @@
-# module6-task3-archive
+# task3-archive
 
  **Решение задачи из 6-го модуля _Java Online Training_**
  
